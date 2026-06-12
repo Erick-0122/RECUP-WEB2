@@ -15,8 +15,8 @@
         min-height: 600px;
         background: linear-gradient(
             180deg,
-            #ffe600 50%,
-            #ffe539 60%,
+            #ffe600 40%,
+            #ffe539 40%,
             #fff4bf 80%,
             #f5f5f5 100%
         );

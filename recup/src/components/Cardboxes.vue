@@ -7,7 +7,7 @@
         <h3>Frete grátis</h3>
 
         <img src="/frete.png" alt="Frete grátis">
-
+        <br>
         <p>Benefício por ser sua primeira compra.</p>
 
         <button>Mostrar produtos</button>
@@ -47,7 +47,7 @@
         <h3>Menos de 100R$</h3>
 
         <img src="/pobre.png" alt="Localização">
-
+        <br>
         <p>Confira produtos com preços mais baixos.</p>
 
         <button>Mostrar produtos</button>
@@ -57,7 +57,7 @@
         <h3>Mais vendidos</h3>
 
         <img src="/vendidos.png" alt="Localização">
-
+        <br>
         <p>Explore os produtos que são tendência.</p>
 
         <button>Ir para mais vendidos</button>
@@ -112,6 +112,7 @@
         font-size: 14px;
         color: #666;
         min-height: 60px;
+        margin-top: auto;
     }
 
     .card button {
@@ -120,7 +121,7 @@
         border-radius: 4px;
 
         padding: 10px;
-
+        margin-top: auto;
         background: #eaf2ff;
         color: #3483fa;
 
